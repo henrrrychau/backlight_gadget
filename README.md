@@ -10,5 +10,5 @@ $ git clone https://github.com/HinWaei/backlight_gadget
 $ cd backlight_gadget && chmod +x ./backlight_gadget.sh
 $ sudo su
 ...(Enter your password)
-\# ./backlight_gadget.sh
+# ./backlight_gadget.sh
 ```
