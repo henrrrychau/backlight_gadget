@@ -12,3 +12,20 @@ $ sudo su
 ...(Enter your password)
 # ./backlight_gadget.sh
 ```
+
+## Example
+
+
+```bash
+# source /path/to/backlight_gadget.sh
+Please input brightness(integer 1-12) or send q/Q to quit:
+4
+
+Success!
+
+Please input brightness(integer 1-12) or send q/Q to quit:
+q
+
+Bye!~
+#
+```
