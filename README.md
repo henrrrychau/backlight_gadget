@@ -3,7 +3,8 @@ Written by Hinux, this is a gadget for backlight adjustment when encountered an 
 
 ## Prerequisites
 **You need to have the right of accessing as root!**
-This script adjusts backlight by modifying /sys/class/back_
+This script adjusts backlight by modifying /sys/class/backlight/intel_backlight/brightness
+where the number represents the brightness of your screen.
 
 ```bash
 $ git clone https://github.com/HinWaei/backlight_gadget
