@@ -1,5 +1,5 @@
 # backlight_gadget
-A gadget for backlight adjustment when encountered an ACPI BIOS ERROR(bug) on Ubuntu 19.0
+Written by Hinux, this is a gadget for backlight adjustment when encountered an ACPI BIOS ERROR(bug) on Ubuntu 19.0
 
 ## Prerequisites
 **You need to have the right of accessing as root!**
