@@ -1,7 +1,7 @@
 #-- Ubuntu Backlight Gadget BY:Hinux Chau --#
 #!/bin/bash
 
-if [[ $(whoami) != 'root' ]]; then
+if [[ $(id -u) != '0' ]]; then
 	echo -e "\nPlease enter sudo su to run me as root";
 	exit;
 fi
